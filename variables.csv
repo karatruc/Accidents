@@ -18,9 +18,10 @@ obsm;Obstacle mobile heurté
 choc;Point de choc initial
 manv;Manoeuvre
 motor;Type de motorisation du véhicule
-catu;Catégorie dusager
+catu;Catégorie d'usager
 grav;Gravité
 sexe;sexe
+place;Place de l'usager
 trajet;Motif du déplacement
 secu1;Equipement de sécurité
 secu2;Equipement de sécurité
